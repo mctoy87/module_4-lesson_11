@@ -38,5 +38,4 @@ const guessNumber = (number) => {
   }
 };
 
-let userNumb;
-guessNumber(userNumb);
+guessNumber();
